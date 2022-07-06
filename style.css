@@ -253,7 +253,7 @@
   .sub-btn {
     padding: 12px 30px 14px;
     color: white;
-    background-color: tomato;
+    background-color: orangered;
     text-decoration: none;
   
     position: relative;
@@ -286,7 +286,7 @@
     padding: 20px 0 10px;
   
     font-size: 1.5rem;
-    color: tomato;
+    color: orangered;
   }
   
   .ft-p {
